@@ -1,0 +1,15 @@
+.app {
+  width: 500px;
+  margin: 0 auto;
+  background-color: #ecf0f1;
+  padding: 1rem;
+  /* 1vh "view height" = 1% of the available height */
+  min-height: 100vh;
+
+  .logo-github {
+    text-align: center;
+    img {
+      max-width: 150px;
+    }
+  }
+}
